@@ -15,6 +15,9 @@ Libraries and Frameworks: React, Vite, TailwindCSS, Numpy, Pandas, Matplotlib, S
 
 UI Component : Shadcn/ui
 
+Original Repo Owner: https://github.com/AugustusWayne
+Contributors of the Project: @PrimalMentat15
+
 <img src="https://github.com/AugustusWayne/DeusExMachina/blob/master/image_2024-09-06_025855686.png?raw=true" height=500px width=500px>
 <img src="https://github.com/AugustusWayne/DeusExMachina/blob/master/image_2024-09-06_025929946.png?raw=true" height=500px width=500px>
 <img src="https://github.com/AugustusWayne/DeusExMachina/blob/master/image_2024-09-06_025939478.png?raw=true" height=500px width=500px>
